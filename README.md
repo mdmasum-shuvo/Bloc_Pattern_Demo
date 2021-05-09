@@ -1,4 +1,4 @@
-# Bloc_Pattern_Demo
+# Bloc Pattern Demo
 
     It also uses and builds on the following techniques
         
